@@ -1,21 +1,17 @@
 #include<stdio.h>
 #include<stdlib.h>
+void swap(int *a,int*b){
+	int t = *a;
+		*a = *b;
+		*b = t;
+}
 void sort3(int *x, int *y, int *z){
-	if(*x>*y){
-		int t = *x;
-		*x = *y;
-		*y = t;
-	}
-	if(*x>*z){
-		int t = *x;
-		*x = *z;
-		*z = t;
-	}
-	if(*y>*z){
-		int t = *y;
-		*y = *z;
-		*z = t;
-	}
+	if(*x>*y)
+		swap(x,y);
+	if(*x>*z)
+		swap(x,z);
+	if(*y>*z)
+	swap(y,z);
 }
 int main() {
     int x, y, z, ti, repeatTimes;

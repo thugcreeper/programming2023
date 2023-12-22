@@ -9,5 +9,6 @@ int main(){
 			printf("C(%d, %d) = %d\n",i,j,com(i,j));
 		}
 	}
+	printf("%d",com(17,8));
 	return 0;
 }
