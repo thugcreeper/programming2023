@@ -1,0 +1,264 @@
+
+Blogger#0:
+ID = giddens
+nickname = 九把刀
+loginTimes = 868
+articles = 8115
+money = 6600
+lastLogin = 2010/12/26
+gender = B
+flags = 1
+
+
+Blogger#1:
+ID = bonddealer
+nickname = 總幹事
+loginTimes = 32493
+articles = 5297
+money = 24700
+lastLogin = 2010/2/10
+gender = B
+flags = 7
+
+
+Blogger#2:
+ID = off60
+nickname = 四小折
+loginTimes = 25504
+articles = 6021
+money = 21000
+lastLogin = 2010/3/2
+gender = B
+flags = 1
+
+
+Blogger#3:
+ID = illyqueen
+nickname = 女王
+loginTimes = 29364
+articles = 1367
+money = 3900
+lastLogin = 2009/7/21
+gender = G
+flags = 1
+
+
+Blogger#4:
+ID = fjumonkey
+nickname = 輔大猴
+loginTimes = 7618
+articles = 8793
+money = 11500
+lastLogin = 2010/12/23
+gender = A
+flags = 1
+
+
+Blogger#5:
+ID = markleeblog
+nickname = 我是馬克
+loginTimes = 30299
+articles = 8468
+money = 1700
+lastLogin = 2010/12/20
+gender = B
+flags = 1
+
+
+Blogger#6:
+ID = cwwany
+nickname = 彎彎
+loginTimes = 10828
+articles = 3494
+money = 19800
+lastLogin = 2010/6/21
+gender = G
+flags = 1
+
+
+Blogger#7:
+ID = thebz1
+nickname = 海豚男
+loginTimes = 12984
+articles = 441
+money = 18700
+lastLogin = 2010/3/3
+gender = B
+flags = 1
+
+
+Blogger#8:
+ID = phigroup
+nickname = 法意PHIGROUP
+loginTimes = 28765
+articles = 7180
+money = 28600
+lastLogin = 2010/12/17
+gender = U
+flags = 1
+
+
+Blogger#9:
+ID = samwoo
+nickname = 米滷蛋
+loginTimes = 6548
+articles = 9803
+money = 26300
+lastLogin = 2010/12/26
+gender = A
+flags = 1
+
+
+Blogger#10:
+ID = abig99
+nickname = 貴婦奈奈
+loginTimes = 12014
+articles = 7525
+money = 7700
+lastLogin = 2010/12/4
+gender = G
+flags = 1
+
+
+Blogger#11:
+ID = chord76415
+nickname = 謝和弦
+loginTimes = 12676
+articles = 9865
+money = 9900
+lastLogin = 2008/11/29
+gender = B
+flags = 3
+
+
+Blogger#12:
+ID = justin0206
+nickname = 賈斯汀
+loginTimes = 8779
+articles = 7165
+money = 12100
+lastLogin = 2010/10/30
+gender = B
+flags = 5
+
+
+Blogger#13:
+ID = fxxkleo
+nickname = Circus-Leo
+loginTimes = 29706
+articles = 4959
+money = 26900
+lastLogin = 2008/7/22
+gender = B
+flags = 5
+
+
+Blogger#14:
+ID = kevinzhou
+nickname = Kevin老師
+loginTimes = 8655
+articles = 607
+money = 10200
+lastLogin = 2008/12/26
+gender = B
+flags = 1
+
+
+Blogger#15:
+ID = jrjr168
+nickname = 呂如中
+loginTimes = 6635
+articles = 475
+money = 14300
+lastLogin = 2009/5/8
+gender = B
+flags = 1
+
+
+Blogger#16:
+ID = alien3647
+nickname = 小鬼
+loginTimes = 12771
+articles = 2481
+money = 24400
+lastLogin = 2010/12/5
+gender = B
+flags = 1
+
+
+Blogger#17:
+ID = meganlai
+nickname = 賴雅研
+loginTimes = 29138
+articles = 5007
+money = 26500
+lastLogin = 2010/12/3
+gender = G
+flags = 1
+
+
+Blogger#18:
+ID = J7882060
+nickname = 林宥嘉
+loginTimes = 17976
+articles = 4722
+money = 8200
+lastLogin = 2008/7/7
+gender = B
+flags = 1
+
+
+Blogger#19:
+ID = prajnaworks
+nickname = 痞子英雄官方部落格
+loginTimes = 7462
+articles = 7831
+money = 16800
+lastLogin = 2010/11/24
+gender = U
+flags = 3
+
+
+Blogger#20:
+ID = chuhung2010
+nickname = 逐虹
+loginTimes = 12355
+articles = 2082
+money = 600
+lastLogin = 2010/12/25
+gender = R
+flags = 1
+
+
+Blogger#21:
+ID = hitomi1001
+nickname = 王瞳
+loginTimes = 20264
+articles = 6334
+money = 12100
+lastLogin = 2008/6/24
+gender = G
+flags = 1
+
+
+Blogger#22:
+ID = judysweb
+nickname = 林葉亭
+loginTimes = 30201
+articles = 4194
+money = -300
+lastLogin = 2010/8/4
+gender = G
+flags = 1
+
+
+Blogger#23:
+ID = keepmy2016
+nickname = 晴格格
+loginTimes = 27215
+articles = 7675
+money = 200
+lastLogin = 2010/12/19
+gender = G
+flags = 1
+
