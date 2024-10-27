@@ -13,7 +13,7 @@ int indexOfList_icmp(char *str, char *list[], int size) {
 int main() {
     char document[] = "National Taiwan Ocean University was originally established in 1953 as a junior college for the study of maritime science and technology.\nAfter eleven years, in 1964, we became a maritime college which offered bachelor's and master's degrees in various fields of maritime studies. During this period, funds for running the college came from the Taiwan Provincial Government of the Republic of China.\nIn 1979 the national government took over the funding and we became the National Maritime College. After another decade, in 1989, the college grew into a full-fledged university, National Taiwan Ocean University (NTOU).";
     int frequency[100]={}, wTotal = 0,k;
-    char *wordlist[100];
+    char *wordlist[100];//100­Ópointer«ü¦Varray 
     char punc[]=",. -()\n", *p;
 	p=strtok(document, punc); // first call
 
